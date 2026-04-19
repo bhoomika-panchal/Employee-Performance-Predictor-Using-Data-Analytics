@@ -9,7 +9,7 @@
   <img src="outputs/mlflow.png" width="45%" />
 </p>
 
-## After Pprediction
+## After Prediction
 <p align="center">
   <img src="outputs/after_predict.png" width="50%" />
 </p>
