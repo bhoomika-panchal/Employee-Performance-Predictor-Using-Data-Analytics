@@ -1,10 +1,15 @@
 # 👨‍💼 Employee Performance Predictor Using Data Analytics
 
+## 📊 Confusion Matrix
+
 <p align="center">
   <img src="outputs/confusion_matrix.png" width="45%" />
+
+## ML Flow
   <img src="outputs/mlflow.png" width="45%" />
 </p>
 
+## After Pprediction
 <p align="center">
   <img src="outputs/after_predict.png" width="50%" />
 </p>
