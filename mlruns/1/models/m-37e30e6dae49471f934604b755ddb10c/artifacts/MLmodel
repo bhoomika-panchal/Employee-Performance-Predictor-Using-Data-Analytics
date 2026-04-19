@@ -1,0 +1,24 @@
+artifact_path: file:///C:/Users/DELL/OneDrive/Desktop/Employee Performance Predictor
+  using Data Analytics/mlruns/1/models/m-37e30e6dae49471f934604b755ddb10c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-37e30e6dae49471f934604b755ddb10c
+model_size_bytes: 547682
+model_uuid: m-37e30e6dae49471f934604b755ddb10c
+prompts: null
+run_id: 7f1f69e34eb346a3848fbe3b61772f87
+utc_time_created: '2026-04-19 03:54:26.823989'
