@@ -1,10 +1,6 @@
 # 👨‍💼 Employee Performance Predictor Using Data Analytics
 
 <p align="center">
-  <img src="outputs/dashboard.png" width="80%" />
-</p>
-
-<p align="center">
   <img src="outputs/confusion_matrix.png" width="45%" />
   <img src="outputs/mlflow.png" width="45%" />
 </p>
