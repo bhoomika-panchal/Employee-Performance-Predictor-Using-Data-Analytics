@@ -1,13 +1,13 @@
 # 👨‍💼 Employee Performance Predictor Using Data Analytics
 
 <p align="center">
-  <img src="outputs/dashboard.png" width="45%" />
-  <img src="outputs/after_predict.png" width="45%" />
+  <img src="./outputs/dashboard.png" width="45%" />
+  <img src="./outputs/after_predict.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="outputs/confusion_matrix.png" width="45%" />
-  <img src="outputs/mlflow.png" width="45%" />
+  <img src="./outputs/confusion_matrix.png" width="45%" />
+  <img src="./outputs/mlflow.png" width="45%" />
 </p>
 
 🚀 An end-to-end Machine Learning project that predicts employee performance and provides actionable HR insights using a production-ready pipeline and interactive dashboard.
