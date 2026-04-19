@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="outputs/confusion_matrix.png" width="40%" />
+  <img src="outputs/confusion_matrix.png" width="45%" />
   <img src="outputs/mlflow.png" width="45%" />
 </p>
 
